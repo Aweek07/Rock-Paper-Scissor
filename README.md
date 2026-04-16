@@ -34,6 +34,6 @@ This repository is a simulated environment created for the **Track & Trace OSINT
 
 - **Authors:** Smit, Abheek, Sarthak, Swara
     
-- **Course:** Semester 2 Project (MPSTME)
+- **Course:** *webtechnologies*
     
 - **Status:** *CTF Challenge question 4 and 6*
